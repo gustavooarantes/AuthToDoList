@@ -10,9 +10,9 @@ import com.gustavooarantes.authtodo.Model.UserModel;
 import com.gustavooarantes.authtodo.Repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component
+@Service
 public class UserService {
 
     private final PasswordEncoder passwordEncoder;
