@@ -20,7 +20,7 @@
 <hl>
 
 <h2>Project Structure</h2>
-
+<pre>
 .
 └── src
     ├── main
@@ -44,3 +44,4 @@
             └── com
                 └── gustavooarantes
                     └── authtodo
+</pre>
