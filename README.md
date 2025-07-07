@@ -16,3 +16,31 @@
 <p>Spring Security and JWT for authentication, authorization and protection</p>
 <p>Spring PostgreSQL Driver for making the connection to the main database for the application</p>
 <p>Lombok and DevTools to make my life a little easier lol</p>
+
+<hl>
+
+<h2>Project Structure</h2>
+
+.
+└── src
+    ├── main
+    │   ├── java
+    │   │   └── com
+    │   │       └── gustavooarantes
+    │   │           └── authtodo
+    │   │               ├── Config
+    │   │               │   ├── Exception
+    │   │               │   └── Security
+    │   │               ├── Controller
+    │   │               ├── DTO
+    │   │               ├── Model
+    │   │               ├── Repository
+    │   │               └── Service
+    │   └── resources
+    │       ├── static
+    │       └── templates
+    └── test
+        └── java
+            └── com
+                └── gustavooarantes
+                    └── authtodo
