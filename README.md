@@ -1,4 +1,4 @@
-<h1>REST API Project: a task manager with user authentication</h1>
+<h1>Task Manager API</h1>
 <h3>Developer: Gustavo Arantes</h3>
 
 <hl>
